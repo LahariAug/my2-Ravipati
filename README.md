@@ -11,4 +11,13 @@ Ooty is a gorgeous hill station in Tamil Nadu, and is considered a haven for nat
  1. Visiting Hill Stations.
  2. Visiting Tea Plantation
  3. Visiting Botanical Garden.
- 
+  
+  ### Favourite Food
+
+  * Idly Sambar.
+  * Sweets.
+    * Gulab Jamun.
+    * Palkova
+  * Staters.
+    * Chicken 65.
+    * Mutton kola Unrundai.
