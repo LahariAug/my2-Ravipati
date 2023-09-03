@@ -21,3 +21,5 @@ Ooty is a gorgeous hill station in Tamil Nadu, and is considered a haven for nat
   * Staters.
     * Chicken 65.
     * Mutton kola Unrundai.
+
+[MyStats](MyStats.md)
