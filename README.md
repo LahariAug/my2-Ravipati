@@ -33,4 +33,17 @@ Ooty is a gorgeous hill station in Tamil Nadu, and is considered a haven for nat
 | Badminton | Improves Muscle Strength | Two hours |
 | Kho Kho | Improves Physical Fitness | Two hours |
 | Kabaddi | Makes us flexible | Two hours |
-| Chess | Improves Memory | Two hours |
+| Chess | Improves Memory | Twog hours |
+
+
+***
+
+### About Scientists
+
+Neils Bohr
+
+An expert is a person who has made all the mistakes that can be made in a very narrow field.
+
+Richard Dawkins
+
+The feeling of awed wonder that science can give us is one 
