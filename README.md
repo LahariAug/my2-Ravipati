@@ -23,3 +23,14 @@ Ooty is a gorgeous hill station in Tamil Nadu, and is considered a haven for nat
     * Mutton kola Unrundai.
 
 [MyStats](MyStats.md)
+
+***
+
+### Sports
+
+| Sport | Reason | Hours |
+| ----- | ------ | ----- |
+| Badminton | Improves Muscle Strength | Two hours |
+| Kho Kho | Improves Physical Fitness | Two hours |
+| Kabaddi | Makes us flexible | Two hours |
+| Chess | Improves Memory | Two hours |
