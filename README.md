@@ -41,10 +41,8 @@ Ooty is a gorgeous hill station in Tamil Nadu, and is considered a haven for nat
 ### About Scientists
 
 > An expert is a person who has made all the mistakes that can be made in a very narrow field.
-
 >> Neils Bohr
 
 
 > The feeling of awed wonder that science can give us is one  of the highest experiences of which the human psyche is capable.
-
 >> Richard Dawkins
