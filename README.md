@@ -46,3 +46,22 @@ Ooty is a gorgeous hill station in Tamil Nadu, and is considered a haven for nat
 
 > The feeling of awed wonder that science can give us is one  of the highest experiences of which the human psyche is capable.
 >> *Richard Dawkins*
+
+***
+
+## Code Fencing
+
+> How to remove gravatar link from Wordpress?
+
+[Stack Overflow](https://stackoverflow.com/questions/42038598/how-to-remove-gravatar-link-from-wordpress)
+
+```
+
+<?php
+  $gravatar_link = 'http://www.gravatar.com/avatar/' . md5($comment_author_email) . '?s=32';
+   echo '<img src="' . $gravatar_link . '" />';
+?>
+
+```
+
+[Snippet Source](https://css-tricks.com/snippets/php/display-a-user-gravatar-from-email-address/)
